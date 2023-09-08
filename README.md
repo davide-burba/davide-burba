@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Davide, a Software Engineer based in Switzerland
-- 👀 I'm experienced in Web Development, Machine Learning, and Forecasting
+- 👀 I'm experienced in Backend Development, Machine Learning, and Forecasting
 - 📰 Check out my blog articles [here](https://medium.com/@davide.burba)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/davide-burba-33925a132/), email: davide.burba@hotmail.com
 
